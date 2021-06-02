@@ -1,5 +1,6 @@
 ### Hi there 👋
 😄 Pronouns: He/Him
+
 🔭 I’m currently working on a few projects:
 - GS, General Store, is a Rust based file management and server with security features on files and folders.
 - Integrations with Twitch
